@@ -1,0 +1,6 @@
+<?php
+/**
+* Yorumu görünürlükten kaldýrýr.
+*/
+
+?>
